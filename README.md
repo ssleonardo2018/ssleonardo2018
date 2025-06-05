@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ssleonardo2018/ssleonardo2018/main/banner.png" alt="Banner Leonardo Silva" width="100%" />
+</p>
+
 # 👨‍💻 Olá, eu sou Leonardo S Silva!  
 ### Estudante de Engenharia de Software | Técnico em Mecatrônica & Informática
 
