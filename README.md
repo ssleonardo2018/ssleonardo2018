@@ -71,9 +71,9 @@
 
 💬 Se quiser trocar uma ideia sobre projetos, tecnologia ou oportunidades de estágio, me chama:
 
-<p>📧 Email: ssleonardo2018@gmail.com</p>
+📧 Email: ssleonardo2018@gmail.com
 🌐 GitHub: [github.com/ssleonardo2018](https://github.com/ssleonardo2018)
-<p>🌐 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)</p>
+🌐 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
 
 ---
 
