@@ -73,7 +73,7 @@
 
 📧 Email: ssleonardo2018@gmail.com  
 🌐 GitHub: [github.com/ssleonardo2018](https://github.com/ssleonardo2018)
-🌐 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+<p>🌐 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)</p>
 
 ---
 
