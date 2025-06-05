@@ -39,10 +39,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ssleonardo2018&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?ssleonardo2018&layout=compact&theme=radical" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ---
 
 ## 🧠 Em aprendizado
