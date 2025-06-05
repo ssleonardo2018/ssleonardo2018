@@ -43,6 +43,9 @@
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssleonardo2018&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+<img width="51%" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/noctis_minimus/0-profile-details.svg" />
+</p>
 ---
 
 ## 🧠 Em aprendizado
